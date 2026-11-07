@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Roast](https://ghfind.com/api/card/0xddddddddd?theme=dark)](https://ghfind.com/u/0xddddddddd?ref=badge)
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/0xddddddddd?variant=radar&lang=zh)](https://ghfind.com/u/0xddddddddd?ref=badge)
