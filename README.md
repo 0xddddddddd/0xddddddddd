@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xddddddddd)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xddddddddd)
+[![GitHub Roast](https://ghfind.com/api/card/0xddddddddd?theme=dark)](https://ghfind.com/u/0xddddddddd?ref=badge)
